@@ -1,0 +1,25 @@
+.todo {
+    width: 600px;
+    height: 100px;
+    border: 1px solid red;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.isDone {
+    background-color: green;
+}
+
+.edit {
+    width: 600px;
+    padding: 20px;
+
+    height: 100px;
+    border: 1px solid blue;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
