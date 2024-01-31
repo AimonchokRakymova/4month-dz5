@@ -1,0 +1,9 @@
+.pokemonCard {
+    border: 1px solid red;
+    margin-top: 10px;
+    width: 200px;
+}
+
+.pokemonCard img {
+    width: 200px;
+}
